@@ -1,7 +1,7 @@
 # irc-addons-scripts
 Compilation MIRCSCRIPTS.ORG files - Full Scripts, Addons and mIRC Info
 
-List of files of the defunct website: MIRCSCRIPTING.ORG.
+List of files of the defunct website: MIRCSCRIPTS.ORG.
 
 
 [164 files] -> ALL MIRCSCRIPTS.ORG ADDONS
